@@ -24,7 +24,7 @@ Make sure to not edit other else's record by following the recommended git proce
 | BERONIO | Pending... | |
 | BOJO | Pending... | |
 | BONGCALES | Pending... | |
-| BULIGAN | Pending... | |
+| BULIGAN | Submitted | |
 | CALLANTA | Pending... | |
 | DURAN | Pending... | |
 | ECOT | Pending... | |
