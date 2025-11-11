@@ -14,8 +14,8 @@ Make sure to not edit other else's record by following the recommended git proce
 | Name | Status | Date submitted |
 |------|--------|----------------|
 | Callejo example | Submitted | 2025-11-11 |
-| ALAJID | Pending... | |
-| ALIWATE | Pending... | |
+| ALAJID | Submitted | 2025-11-11 |
+| ALIWATE | Submitted | 2025-11-11 |
 | ALLEN | Pending... | |
 | AMOY | Submitted | 2025-11-11 |
 | APOLINARES | Pending... | |
@@ -25,6 +25,8 @@ Make sure to not edit other else's record by following the recommended git proce
 | BOJO | Pending... | |
 | BONGCALES | Submitted | 2025-11-11 |
 | BULIGAN | Pending... | |
+| BONGCALES | Pending... | |
+| BULIGAN | Submitted | |
 | CALLANTA | Pending... | |
 | DURAN | Pending... | |
 | ECOT | Pending... | |
@@ -34,12 +36,12 @@ Make sure to not edit other else's record by following the recommended git proce
 | LABRADOR | Pending... | |
 | LACTAOTAO | Pending... | |
 | LAGROSAS | Pending... | |
-| LAPAÑA | Pending... | |
+| LAPAÑA | Submitted | 2025-11-11 |
 | LIBARDOS | Pending... | |
 | LIMBAGA | Pending... | |
 | PAPASIN | Pending... | |
 | PROSIA | Pending... | |
-| REDONDO | Pending... | |
+| REDONDO | Submitted | 2025-11-11 |
 | RUBI | Pending... | |
 | SAMBILE | Pending... | |
 | TABARNO | Pending... | |
