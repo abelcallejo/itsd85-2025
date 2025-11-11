@@ -30,11 +30,17 @@ Make sure to not edit other else's record by following the recommended git proce
 <<<<<<< HEAD
 <<<<<<< HEAD
 | BOJO | Submitted | 2025-11-11 |
+<<<<<<< HEAD
 | BONGCALES | Pending... | |
 | BULIGAN | Pending... | |
 | BONGCALES | Pending... | |
 | BULIGAN | Submitted | |
 | CALLANTA | Pending... | |
+=======
+| BONGCALES | Submitted | 2025-11-11 |
+| BULIGAN | Submitted | 2025-11-11 |
+| CALLANTA | Submitted | 2025-11-11 |
+>>>>>>> b836e91156e4ab72e04d5d2cc83f359672a3fbcf
 | DURAN | Submitted | 2025-11-11 |
 | ECOT | Pending... | |
 | HUERVAS | Pending... | |
