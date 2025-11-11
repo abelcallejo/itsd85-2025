@@ -17,7 +17,7 @@ Make sure to not edit other else's record by following the recommended git proce
 | ALAJID | Pending... | |
 | ALIWATE | Pending... | |
 | ALLEN | Pending... | |
-| AMOY | Pending... | |
+| AMOY | Submitted | |
 | APOLINARES | Pending... | |
 | AYUBAN | Pending... | |
 | BANCAT | Pending... | |
