@@ -29,7 +29,7 @@ Make sure to not edit other else's record by following the recommended git proce
 | BULIGAN | Pending... | |
 | BONGCALES | Pending... | |
 | BULIGAN | Submitted | |
-| CALLANTA | Pending... | |
+| CALLANTA | Submitted | 2025-11-11 |
 | DURAN | Submitted | 2025-11-11 |
 | ECOT | Pending... | |
 | HUERVAS | Pending... | |
