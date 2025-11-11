@@ -24,7 +24,7 @@ Make sure to not edit other else's record by following the recommended git proce
 | BOJO | Pending... | |
 | BONGCALES | Submitted | 2025-11-11 |
 | BULIGAN | Pending... | |
-| CALLANTA | Submitted | 2025-11-11 |
+| CALLANTA | Pending... | |
 | DURAN | Pending... | |
 | ECOT | Pending... | |
 | HUERVAS | Pending... | |
@@ -36,9 +36,9 @@ Make sure to not edit other else's record by following the recommended git proce
 | LAPAÑA | Pending... | |
 | LIBARDOS | Pending... | |
 | LIMBAGA | Pending... | |
-| PAPASIN | Pending... | |
+| PAPASIN | Submitted |2025-11-11 |
 | PROSIA | Pending... | |
 | REDONDO | Submitted | 2025-11-11 |
 | RUBI | Submitted | 2025-11-11 |
 | SAMBILE | Pending... | |
-| TABARNO | Submitted| 2025-11-11 |
+| TABARNO | Pending... | |
