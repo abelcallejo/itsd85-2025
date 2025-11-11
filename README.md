@@ -15,8 +15,7 @@ Make sure to not edit other else's record by following the recommended git proce
 |------|--------|----------------|
 | Callejo example | Submitted | 2025-11-11 |
 | ALAJID | Pending... | |
-| ALIWATE | Pending... | |
-| ALLEN | Pending... | |
+| ALIWATE | Submitted |2025-11-11 |
 | AMOY | Pending... | |
 | APOLINARES | Pending... | |
 | AYUBAN | Pending... | |
@@ -25,7 +24,8 @@ Make sure to not edit other else's record by following the recommended git proce
 | BOJO | Pending... | |
 | BONGCALES | Pending... | |
 | BULIGAN | Pending... | |
-| CALLANTA | Pending... | |
+| CALLANTA | | |
+| ALLEN | Pe Pending... | |
 | DURAN | Pending... | |
 | ECOT | Pending... | |
 | HUERVAS | Pending... | |
