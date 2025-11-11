@@ -26,7 +26,7 @@ Make sure to not edit other else's record by following the recommended git proce
 | BONGCALES | Submitted | 2025-11-11 |
 | BULIGAN | Pending... | |
 | CALLANTA | Submitted | 2025-11-11 |
-| DURAN | Pending... | |
+| DURAN | Submitted | |
 | ECOT | Pending... | |
 | HUERVAS | Submitted | 2025-11-11 |
 | INSO | Pending... | |
