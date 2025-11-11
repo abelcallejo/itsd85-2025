@@ -14,6 +14,9 @@ Make sure to not edit other else's record by following the recommended git proce
 | Name | Status | Date submitted |
 |------|--------|----------------|
 | Callejo example | Submitted | 2025-11-11 |
+| ALAJID | Pending... | |
+| ALIWATE | Submitted |2025-11-11 |
+| AMOY | Pending... | |
 | ALAJID | Submitted | 2025-11-11 |
 | ALIWATE | Pending... | |
 | ALLEN | Pending... | |
@@ -27,6 +30,9 @@ Make sure to not edit other else's record by following the recommended git proce
 | BOJO | Pending... | |
 | BONGCALES | Submitted | 2025-11-11 |
 | BULIGAN | Pending... | |
+| CALLANTA | | |
+| ALLEN | Pe Pending... | |
+| DURAN | Pending... | |
 | BONGCALES | Pending... | |
 | BULIGAN | Submitted | |
 | CALLANTA | Pending... | |
