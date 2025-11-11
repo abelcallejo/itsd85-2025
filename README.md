@@ -44,7 +44,7 @@ Make sure to not edit other else's record by following the recommended git proce
 | LIMBAGA | Pending... | |
 | PAPASIN | Pending... | |
 | PROSIA | Pending... | |
-| REDONDO | Pending... | |
+| REDONDO | Submitted |2025-11-11 |
 | RUBI | Submitted | |
 | SAMBILE | Pending... | |
 | TABARNO | Submitted| | 2025-11-11 |
