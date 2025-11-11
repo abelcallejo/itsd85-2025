@@ -43,7 +43,7 @@ Make sure to not edit other else's record by following the recommended git proce
 >>>>>>> b836e91156e4ab72e04d5d2cc83f359672a3fbcf
 | DURAN | Submitted | 2025-11-11 |
 | ECOT | Pending... | |
-| HUERVAS | Pending... | |
+| HUERVAS | Submitted | 2025-11-11 |
 | INSO | Pending... | |
 | JUMAO-AS | Submitted | |
 | LABRADOR | Pending... | |
