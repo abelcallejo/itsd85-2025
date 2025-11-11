@@ -15,38 +15,6 @@ Understand and follow the instructions carefully. **Push 2 separate commits** fo
 Make sure to not edit other else's record by following the recommended git procedure from the discussions. See example...
 ## Laboratory exercise
 
-| Name            | Status     | Date submitted |
-| --------------- | ---------- | -------------- |
-| Callejo example | Submitted  | 2025-11-11     |
-| ALAJID          | Pending... |                |
-| ALIWATE         | Pending... |                |
-| ALLEN           | Pending... |                |
-| AMOY            | Pending... |                |
-| APOLINARES      | Pending... |                |
-| AYUBAN          | Pending... |                |
-| BANCAT          | Pending... |                |
-| BERONIO         | Pending... |                |
-| BOJO            | Pending... |                |
-| BONGCALES       | Pending... |                |
-| BULIGAN         | Pending... |                |
-| CALLANTA        | Pending... |                |
-| DURAN           | Pending... |                |
-| ECOT            | Pending... |                |
-| HUERVAS         | Pending... |                |
-| INSO            | Pending... |                |
-| JUMAO-AS        | Submitted  | 2025-11-11     |
-| LABRADOR        | Pending... |                |
-| LACTAOTAO       | Pending... |                |
-| LAGROSAS        | Pending... |                |
-| LAPAÑA          | Pending... |                |
-| LIBARDOS        | Pending... |                |
-| LIMBAGA         | Pending... |                |
-| PAPASIN         | Pending... |                |
-| PROSIA          | Pending... |                |
-| REDONDO         | Pending... |                |
-| RUBI            | Pending... |                |
-| SAMBILE         | Pending... |                |
-| TABARNO         | Pending... |                |
 | Name | Status | Date submitted |
 |------|--------|----------------|
 | Callejo example | Submitted | 2025-11-11 |
@@ -54,8 +22,8 @@ Make sure to not edit other else's record by following the recommended git proce
 | ALIWATE | Submitted | 2025-11-11 |
 | ALLEN | Pending... | |
 | AMOY | Submitted | 2025-11-11 |
-| APOLINARES | Pending... | |
 | AYUBAN | Submitted | 2025-11-11 |
+| APOLINARES | Submitted | 2025-11-11 |
 | BANCAT | Submitted | 2025-11-11 |
 | BERONIO | Submitted | 2025-11-11 |
 | BOJO | Submitted |2025-11-11 |
