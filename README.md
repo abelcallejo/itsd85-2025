@@ -70,7 +70,7 @@ Make sure to not edit other else's record by following the recommended git proce
 | LABRADOR | Submitted | 2025-11-11 |
 | LACTAOTAO | Pending... | |
 | LAGROSAS | Submintted |2025-11-11|
-| LAPAÑA | Pending... | |
+| LAPAÑA | Submitted | 2025-11-11 |
 | LIBARDOS | Pending... | |
 | LIMBAGA | Pending... | |
 | PAPASIN | Submitted |2025-11-11 |
