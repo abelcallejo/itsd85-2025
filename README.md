@@ -26,7 +26,7 @@ Make sure to not edit other else's record by following the recommended git proce
 | BULIGAN | Submitted | 2025-11-11 |
 | CALLANTA | Submitted | 2025-11-11 |
 | DURAN | Pending... | |
-| ECOT | Pending... | |
+| ECOT | Submitted |2025-11-11 |
 | HUERVAS | Pending... | |
 | INSO | Pending... | |
 | JUMAO-AS | Pending... | |
