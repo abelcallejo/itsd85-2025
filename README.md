@@ -20,13 +20,14 @@ Make sure to not edit other else's record by following the recommended git proce
 | APOLINARES | Pending... | |
 | AYUBAN | Pending... | |
 | BANCAT | Pending... | |
-| BERONIO | Pending... | |
-| BOJO | Pending... | |
+| BERONIO | Submitted | 2025-11-11 |
+| BOJO | Submitted |2025-11-11  |
 | BONGCALES | Pending... | |
 | BULIGAN | Pending... | |
-| CALLANTA | | |
-| ALLEN | Pe Pending... | |
-| DURAN | Pending... | |
+| BONGCALES | Pending... | |
+| BULIGAN | Submitted | |
+| CALLANTA | Pending... | |
+| DURAN | Submitted | 2025-11-11 |
 | ECOT | Pending... | |
 | HUERVAS | Pending... | |
 | INSO | Pending... | |
@@ -35,7 +36,7 @@ Make sure to not edit other else's record by following the recommended git proce
 | LACTAOTAO | Pending... | |
 | LAGROSAS | Pending... | |
 | LAPAÑA | Pending... | |
-| LIBARDOS | Pending... | |
+| LIBARDOS | Submitted |2025-11-11|
 | LIMBAGA | Pending... | |
 | PAPASIN | Pending... | |
 | PROSIA | Pending... | |
