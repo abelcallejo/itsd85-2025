@@ -35,7 +35,7 @@ Make sure to not edit other else's record by following the recommended git proce
 | LACTAOTAO | Pending... | |
 | LAGROSAS | Pending... | |
 | LAPAÑA | Pending... | |
-| LIBARDOS | Pending... | |
+| LIBARDOS | Submitted | |
 | LIMBAGA | Pending... | |
 | PAPASIN | Pending... | |
 | PROSIA | Pending... | |
