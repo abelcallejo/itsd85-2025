@@ -22,7 +22,7 @@ Make sure to not edit other else's record by following the recommended git proce
 | ALIWATE | Submitted | |
 | AMOY | Pending... | |
 | APOLINARES | Pending... | |
-| AYUBAN | Pending... | |
+| AYUBAN | Submitted | |
 | BANCAT | Submitted | 2025-11-11 |
 | BERONIO | Submitted | 2025-11-11 |
 | BOJO | Submitted |2025-11-11  |
