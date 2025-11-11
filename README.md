@@ -43,4 +43,4 @@ Make sure to not edit other else's record by following the recommended git proce
 | REDONDO | Pending... | |
 | RUBI | Pending... | |
 | SAMBILE | Pending... | |
-| TABARNO | Submitted| |
+| TABARNO | Submitted| | 2025-11-11 |
