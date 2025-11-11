@@ -14,19 +14,23 @@ Make sure to not edit other else's record by following the recommended git proce
 | Name | Status | Date submitted |
 |------|--------|----------------|
 | Callejo example | Submitted | 2025-11-11 |
-| ALAJID | Pending... | |
+| ALAJID | Submitted | 2025-11-11 |
 | ALIWATE | Pending... | |
 | ALLEN | Pending... | |
-| AMOY | Pending... | |
+| AMOY | Submitted | 2025-11-11 |
 | APOLINARES | Pending... | |
 | AYUBAN | Pending... | |
 | BANCAT | Pending... | |
 | BERONIO | Submitted | 2025-11-11 |
 | BOJO | Submitted |2025-11-11 |
 | BONGCALES | Pending... | |
+| BOJO | Pending... | |
+| BONGCALES | Submitted | 2025-11-11 |
 | BULIGAN | Pending... | |
+| BONGCALES | Pending... | |
+| BULIGAN | Submitted | |
 | CALLANTA | Pending... | |
-| DURAN | Pending... | |
+| DURAN | Submitted | 2025-11-11 |
 | ECOT | Pending... | |
 | HUERVAS | Pending... | |
 | INSO | Pending... | |
@@ -39,7 +43,7 @@ Make sure to not edit other else's record by following the recommended git proce
 | LIMBAGA | Pending... | |
 | PAPASIN | Pending... | |
 | PROSIA | Pending... | |
-| REDONDO | Pending... | |
+| REDONDO | Submitted | 2025-11-11 |
 | RUBI | Pending... | |
 | SAMBILE | Pending... | |
 | TABARNO | Pending... | |
