@@ -23,8 +23,8 @@ Make sure to not edit other else's record by following the recommended git proce
 | BERONIO | Submitted | 2025-11-11 |
 | BOJO | Submitted | 2025-11-11 |
 | BONGCALES | Submitted | 2025-11-11 |
-| BULIGAN | Pending... | |
-| CALLANTA | Pending... | |
+| BULIGAN | Submitted | 2025-11-11 |
+| CALLANTA | Submitted | 2025-11-11 |
 | DURAN | Pending... | |
 | ECOT | Pending... | |
 | HUERVAS | Pending... | |
