@@ -34,7 +34,7 @@ Make sure to not edit other else's record by following the recommended git proce
 | DURAN           | Submitted  | 2025-11-11     |
 | ECOT            | Pending... |                |
 | HUERVAS         | Pending... |                |
-| INSO            | Pending... |                |
+| INSO            | Submitted  |                |
 | JUMAO-AS        | Pending... |                |
 | LABRADOR        | Pending... |                |
 | LACTAOTAO       | Pending... |                |
@@ -45,6 +45,6 @@ Make sure to not edit other else's record by following the recommended git proce
 | PAPASIN         | Pending... |                |
 | PROSIA          | Pending... |                |
 | REDONDO         | Pending... |                |
-| RUBI            | Pending... |                |
+| RUBI            | Submitted  |                |
 | SAMBILE         | Pending... |                |
 | TABARNO         | Submitted  |                | 2025-11-11 |
