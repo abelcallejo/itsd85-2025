@@ -37,7 +37,7 @@ Make sure to not edit other else's record by following the recommended git proce
 | LAPAÑA | Pending... | |
 | LIBARDOS | Pending... | |
 | LIMBAGA | Pending... | |
-| PAPASIN | Submitted | |
+| PAPASIN | Submitted |2025-11-11 |
 | PROSIA | Pending... | |
 | REDONDO | Submitted | 2025-11-11 |
 | RUBI | Submitted | 2025-11-11 |
