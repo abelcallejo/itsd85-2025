@@ -10,9 +10,3 @@ I’m passionate about building things with code and learning something new ever
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cheesyGarlicBread15&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=cheesyGarlicBread15&theme=tokyonight&hide_border=true)
-
----
-
-### 🐍 Contribution Snake
-
-![snake gif](https://github.com/cheesyGarlicBread15/cheesyGarlicBread15/blob/output/github-contribution-grid-snake.svg)
