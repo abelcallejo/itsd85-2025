@@ -28,7 +28,7 @@ Make sure to not edit other else's record by following the recommended git proce
 | BONGCALES | Pending... | |
 | BULIGAN | Submitted | |
 | CALLANTA | Pending... | |
-| DURAN | Pending... | |
+| DURAN | Submitted | 2025-11-11 |
 | ECOT | Pending... | |
 | HUERVAS | Pending... | |
 | INSO | Pending... | |
@@ -36,7 +36,7 @@ Make sure to not edit other else's record by following the recommended git proce
 | LABRADOR | Pending... | |
 | LACTAOTAO | Pending... | |
 | LAGROSAS | Pending... | |
-| LAPAÑA | Submitted | 2025-11-11 |
+| LAPAÑA | Pending... | |
 | LIBARDOS | Pending... | |
 | LIMBAGA | Pending... | |
 | PAPASIN | Pending... | |
