@@ -19,11 +19,7 @@ Make sure to not edit other else's record by following the recommended git proce
 | ALLEN | Pending... | |
 | AMOY | Submitted | 2025-11-11 |
 | APOLINARES | Pending... | |
-<<<<<<< HEAD
-| AYUBAN | Submitted | |
-=======
 | AYUBAN | Submitted | 2025-11-11 |
->>>>>>> 505139789c6ab1e0788442511e188de695480eb1
 | BANCAT | Submitted | 2025-11-11 |
 | BERONIO | Submitted | 2025-11-11 |
 | BOJO | Submitted |2025-11-11 |
