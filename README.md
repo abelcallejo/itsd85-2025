@@ -28,7 +28,7 @@ Make sure to not edit other else's record by following the recommended git proce
 | CALLANTA | Pending... | |
 | DURAN | Pending... | |
 | ECOT | Pending... | |
-| HUERVAS | Pending... | |
+| HUERVAS | Submitted | 2025-11-11 |
 | INSO | Pending... | |
 | JUMAO-AS | Pending... | |
 | LABRADOR | Submitted | 2025-11-11 |
