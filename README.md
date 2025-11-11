@@ -34,7 +34,7 @@ Make sure to not edit other else's record by following the recommended git proce
 | ECOT            | Pending... |                |
 | HUERVAS         | Pending... |                |
 | INSO            | Pending... |                |
-| JUMAO-AS        | Submitted  |                |
+| JUMAO-AS        | Submitted  | 2025-11-11     |
 | LABRADOR        | Pending... |                |
 | LACTAOTAO       | Pending... |                |
 | LAGROSAS        | Pending... |                |
