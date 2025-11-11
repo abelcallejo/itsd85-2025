@@ -37,7 +37,7 @@ Make sure to not edit other else's record by following the recommended git proce
 | DURAN           | Submitted  | 2025-11-11     |
 | ECOT            | Pending... |                |
 | HUERVAS         | Pending... |                |
-| INSO            | Submitted  |                |
+| INSO            | Submitted  | 2025-11-11     |
 | JUMAO-AS        | Pending... |                |
 | LABRADOR        | Pending... |                |
 | LACTAOTAO       | Pending... |                |
