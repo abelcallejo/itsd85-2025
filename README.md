@@ -53,35 +53,32 @@ Make sure to not edit other else's record by following the recommended git proce
 | Name | Status | Date submitted |
 |------|--------|----------------|
 | Callejo example | Submitted | 2025-11-11 |
-| ALAJID | Pending... | |
-| ALIWATE | Submitted | |
-| AMOY | Pending... | |
+| ALAJID | Submitted | 2025-11-11 |
+| ALIWATE | Pending... | |
+| ALLEN | Pending... | |
+| AMOY | Submitted | 2025-11-11 |
 | APOLINARES | Pending... | |
 | AYUBAN | Pending... | |
-| BANCAT | Submitted | 2025-11-11 |
+| BANCAT | Pending... | |
 | BERONIO | Submitted | 2025-11-11 |
 | BOJO | Submitted |2025-11-11 |
 | BONGCALES | Pending... | |
 | BULIGAN | Pending... | |
-| BONGCALES | Pending... | |
-| BULIGAN | Submitted | |
-| CALLANTA | Pending... | |
-| DURAN | Submitted | 2025-11-11 |
+| CALLANTA | Submitted | 2025-11-11 |
+| DURAN | Pending... | |
 | ECOT | Pending... | |
 | HUERVAS | Pending... | |
 | INSO | Pending... | |
-| JUMAO-AS | Pending... | |
-| LABRADOR | Submitted | |
+| JUMAO-AS | Submitted | |
+| LABRADOR | Pending... | |
 | LACTAOTAO | Pending... | |
-| LAGROSAS | Pending... | |
+| LAGROSAS | Submintted |2025-11-11|
 | LAPAÑA | Pending... | |
-| LIBARDOS | Submitted |2025-11-11|
+| LIBARDOS | Pending... | |
 | LIMBAGA | Pending... | |
-| PAPASIN | Pending... | |
+| PAPASIN | Submitted | |
 | PROSIA | Pending... | |
-| REDONDO | Pending... | |
-| RUBI | Pending... | |
+| REDONDO | Submitted | 2025-11-11 |
+| RUBI | Submitted | 2025-11-11 |
 | SAMBILE | Pending... | |
-| TABARNO | Submitted| | 2025-11-11 |
-
-> > > > > > > 8b6e954d410d0abd70e9f1fc23bb5c9243dfce49
+| TABARNO | Pending... | |
