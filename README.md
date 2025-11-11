@@ -21,7 +21,7 @@ Make sure to not edit other else's record by following the recommended git proce
 | AYUBAN | Pending... | |
 | BANCAT | Submitted | 2025-11-11 |
 | BERONIO | Submitted | 2025-11-11 |
-| BOJO | Submitted |2025-11-11 |
+| BOJO | Submitted | 2025-11-11 |
 | BONGCALES | Submitted | 2025-11-11 |
 | BULIGAN | Pending... | |
 | CALLANTA | Pending... | |
