@@ -31,7 +31,7 @@ Make sure to not edit other else's record by following the recommended git proce
 | HUERVAS | Pending... | |
 | INSO | Pending... | |
 | JUMAO-AS | Pending... | |
-| LABRADOR | Pending... | |
+| LABRADOR | Submitted | 2025-11-11 |
 | LACTAOTAO | Pending... | |
 | LAGROSAS | Submintted |2025-11-11|
 | LAPAÑA | Pending... | |
