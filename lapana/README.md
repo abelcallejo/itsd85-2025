@@ -1,2 +1,0 @@
-# Lapaña's readme
-
