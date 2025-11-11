@@ -3,7 +3,7 @@
 November 11, 2025
 
 ## Instructions
-**Push 2 separate commits** for changing each of your:
+Understand and follow the instructions carefully. **Push 2 separate commits** for changing each of your:
  1. status of your lab exercise status from `Pending...` into `Submitted`; and
  2. date of submission into *`yyyy-mm-dd`* format.
 
