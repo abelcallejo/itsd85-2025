@@ -25,6 +25,8 @@ Make sure to not edit other else's record by following the recommended git proce
 | BOJO | Pending... | |
 | BONGCALES | Submitted | 2025-11-11 |
 | BULIGAN | Pending... | |
+| BONGCALES | Pending... | |
+| BULIGAN | Submitted | |
 | CALLANTA | Pending... | |
 | DURAN | Pending... | |
 | ECOT | Pending... | |
