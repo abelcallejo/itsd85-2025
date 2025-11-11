@@ -19,13 +19,15 @@ Make sure to not edit other else's record by following the recommended git proce
 | Name | Status | Date submitted |
 | --------------- | ---------- | -------------- |
 | Callejo example | Submitted | 2025-11-11 |
-| ALAJID | Pending... | |
-| ALIWATE | Submitted | |
-| AMOY | Pending... | |
+| ALAJID | Submitted | 2025-11-11 |
+| ALIWATE | Pending... | |
+| ALLEN | Pending... | |
+| AMOY | Submitted | 2025-11-11 |
 | APOLINARES | Pending... | |
 | AYUBAN | Pending... | |
 | BANCAT | Submitted | 2025-11-11 |
 | BERONIO | Submitted | 2025-11-11 |
+<<<<<<< HEAD
 | BOJO | Submitted | 2025-11-11 |
 | BONGCALES | Pending... | |
 | BULIGAN | Pending... | |
@@ -38,47 +40,73 @@ Make sure to not edit other else's record by following the recommended git proce
 | INSO | Pending... | |
 | JUMAO-AS | Submitted | |
 | LABRADOR | Pending... | |
-| LACTAOTAO | Pending... | |
-| LAGROSAS | Pending... | |
-| LAPAÑA | Pending... | |
-| LIBARDOS | Submitted | 2025-11-11 |
-| LIMBAGA | Pending... | |
-| PAPASIN | Pending... | |
-| PROSIA | Pending... | |
-| REDONDO | Pending... | |
-| RUBI | Pending... | |
-| SAMBILE | Pending... | |
-| TABARNO | Pending... | |
 =======
-| Name | Status | Date submitted |
-|------|--------|----------------|
-| Callejo example | Submitted | 2025-11-11 |
-| ALAJID | Submitted | 2025-11-11 |
-| ALIWATE | Pending... | |
-| ALLEN | Pending... | |
-| AMOY | Submitted | 2025-11-11 |
-| APOLINARES | Pending... | |
-| AYUBAN | Pending... | |
-| BANCAT | Pending... | |
-| BERONIO | Submitted | 2025-11-11 |
-| BOJO | Submitted |2025-11-11 |
-| BONGCALES | Pending... | |
-| BULIGAN | Pending... | |
+| BOJO | Pending... | |
+| BONGCALES | Submitted | 2025-11-11 |
+| BULIGAN | Submitted | 2025-11-11 |
 | CALLANTA | Submitted | 2025-11-11 |
 | DURAN | Pending... | |
 | ECOT | Pending... | |
 | HUERVAS | Pending... | |
 | INSO | Pending... | |
-| JUMAO-AS | Submitted | |
-| LABRADOR | Pending... | |
-| LACTAOTAO | Pending... | |
-| LAGROSAS | Submintted |2025-11-11|
-| LAPAÑA | Pending... | |
+| JUMAO-AS | Pending... | |
+| LABRADOR | Submitted | 2025-11-11 |
+
+> > > > > > > d5f6d238f26c52d34e6bf593a9d5e9e48cbb15ac
+> > > > > > > | LACTAOTAO | Pending... | |
+> > > > > > > | LAGROSAS | Submintted |2025-11-11|
+> > > > > > > | LAPAÑA | Pending... | |
+> > > > > > > <<<<<<< HEAD
+
+# | LIBARDOS | Submitted | 2025-11-11 |
+
 | LIBARDOS | Pending... | |
-| LIMBAGA | Pending... | |
-| PAPASIN | Submitted | |
-| PROSIA | Pending... | |
-| REDONDO | Submitted | 2025-11-11 |
-| RUBI | Submitted | 2025-11-11 |
-| SAMBILE | Pending... | |
-| TABARNO | Pending... | |
+
+> > > > > > > d5f6d238f26c52d34e6bf593a9d5e9e48cbb15ac
+> > > > > > > | LIMBAGA | Pending... | |
+> > > > > > > | PAPASIN | Submitted |2025-11-11 |
+> > > > > > > | PROSIA | Pending... | |
+> > > > > > > | REDONDO | Submitted | 2025-11-11 |
+> > > > > > > | RUBI | Submitted | 2025-11-11 |
+> > > > > > > | SAMBILE | Pending... | |
+> > > > > > > <<<<<<< HEAD
+
+# | TABARNO | Pending... | |
+
+| Name            | Status     | Date submitted |
+| --------------- | ---------- | -------------- |
+| Callejo example | Submitted  | 2025-11-11     |
+| ALAJID          | Submitted  | 2025-11-11     |
+| ALIWATE         | Pending... |                |
+| ALLEN           | Pending... |                |
+| AMOY            | Submitted  | 2025-11-11     |
+| APOLINARES      | Pending... |                |
+| AYUBAN          | Pending... |                |
+| BANCAT          | Pending... |                |
+| BERONIO         | Submitted  | 2025-11-11     |
+| BOJO            | Submitted  | 2025-11-11     |
+| BONGCALES       | Pending... |                |
+| BULIGAN         | Pending... |                |
+| CALLANTA        | Submitted  | 2025-11-11     |
+| DURAN           | Pending... |                |
+| ECOT            | Pending... |                |
+| HUERVAS         | Pending... |                |
+| INSO            | Pending... |                |
+| JUMAO-AS        | Submitted  |                |
+| LABRADOR        | Pending... |                |
+| LACTAOTAO       | Pending... |                |
+| LAGROSAS        | Submintted | 2025-11-11     |
+| LAPAÑA          | Pending... |                |
+| LIBARDOS        | Pending... |                |
+| LIMBAGA         | Pending... |                |
+| PAPASIN         | Submitted  |                |
+| PROSIA          | Pending... |                |
+| REDONDO         | Submitted  | 2025-11-11     |
+| RUBI            | Submitted  | 2025-11-11     |
+| SAMBILE         | Pending... |                |
+| TABARNO         | Pending... |                |
+
+=======
+| TABARNO | Submitted | 2025-11-11 |
+
+> > > > > > > d5f6d238f26c52d34e6bf593a9d5e9e48cbb15ac
