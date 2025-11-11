@@ -14,26 +14,19 @@ Make sure to not edit other else's record by following the recommended git proce
 | Name | Status | Date submitted |
 |------|--------|----------------|
 | Callejo example | Submitted | 2025-11-11 |
-| ALAJID | Submitted | 2025-11-11 |
-| ALIWATE | Submitted | 2025-11-11 |
-| ALLEN | Pending... | |
-| AMOY | Submitted | 2025-11-11 |
+| ALAJID | Pending... | |
+| ALIWATE | Submitted | |
+| AMOY | Pending... | |
 | APOLINARES | Pending... | |
 | AYUBAN | Pending... | |
 | BANCAT | Pending... | |
-| BERONIO | Submitted | 2025-11-11 |
-<<<<<<< HEAD
-=======
-| BOJO | Submitted |2025-11-11  |
-| BONGCALES | Pending... | |
->>>>>>> dbb43dac2097fa63212eafd7d638905a6a7d84b4
+| BERONIO | Pending... | |
 | BOJO | Pending... | |
-| BONGCALES | Submitted | 2025-11-11 |
-| BULIGAN | Pending... | |
 | BONGCALES | Pending... | |
-| BULIGAN | Submitted | |
-| CALLANTA | Pending... | |
-| DURAN | Submitted | 2025-11-11 |
+| BULIGAN | Pending... | |
+| CALLANTA | | |
+| ALLEN | Pe Pending... | |
+| DURAN | Pending... | |
 | ECOT | Pending... | |
 | HUERVAS | Pending... | |
 | INSO | Pending... | |
@@ -41,12 +34,12 @@ Make sure to not edit other else's record by following the recommended git proce
 | LABRADOR | Pending... | |
 | LACTAOTAO | Pending... | |
 | LAGROSAS | Pending... | |
-| LAPAÑA | Submitted | 2025-11-11 |
+| LAPAÑA | Pending... | |
 | LIBARDOS | Pending... | |
 | LIMBAGA | Pending... | |
 | PAPASIN | Pending... | |
 | PROSIA | Pending... | |
-| REDONDO | Submitted | 2025-11-11 |
+| REDONDO | Pending... | |
 | RUBI | Pending... | |
 | SAMBILE | Pending... | |
 | TABARNO | Pending... | |
