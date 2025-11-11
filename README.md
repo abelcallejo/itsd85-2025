@@ -28,6 +28,7 @@ Make sure to not edit other else's record by following the recommended git proce
 | BANCAT | Submitted | 2025-11-11 |
 | BERONIO | Submitted | 2025-11-11 |
 <<<<<<< HEAD
+<<<<<<< HEAD
 | BOJO | Submitted | 2025-11-11 |
 | BONGCALES | Pending... | |
 | BULIGAN | Pending... | |
@@ -42,15 +43,19 @@ Make sure to not edit other else's record by following the recommended git proce
 | LABRADOR | Pending... | |
 =======
 | BOJO | Pending... | |
-| BONGCALES | Submitted | 2025-11-11 |
-| BULIGAN | Submitted | 2025-11-11 |
-| CALLANTA | Submitted | 2025-11-11 |
-| DURAN | Pending... | |
-| ECOT | Pending... | |
-| HUERVAS | Pending... | |
-| INSO | Pending... | |
-| JUMAO-AS | Pending... | |
-| LABRADOR | Submitted | 2025-11-11 |
+=======
+| BOJO | Submitted | 2025-11-11 |
+
+> > > > > > > 06f602e7535365cc93261168bf8a1ebf8d07dead
+> > > > > > > | BONGCALES | Submitted | 2025-11-11 |
+> > > > > > > | BULIGAN | Submitted | 2025-11-11 |
+> > > > > > > | CALLANTA | Submitted | 2025-11-11 |
+> > > > > > > | DURAN | Submitted | |
+> > > > > > > | ECOT | Pending... | |
+> > > > > > > | HUERVAS | Pending... | |
+> > > > > > > | INSO | Pending... | |
+> > > > > > > | JUMAO-AS | Pending... | |
+> > > > > > > | LABRADOR | Submitted | 2025-11-11 |
 
 > > > > > > > d5f6d238f26c52d34e6bf593a9d5e9e48cbb15ac
 > > > > > > > | LACTAOTAO | Pending... | |
