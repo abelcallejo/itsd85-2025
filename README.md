@@ -21,9 +21,9 @@ Make sure to not edit other else's record by following the recommended git proce
 | APOLINARES | Pending... | |
 | AYUBAN | Pending... | |
 | BANCAT | Pending... | |
-| BERONIO | Pending... | |
+| BERONIO | Submitted | 2025-11-11 |
 | BOJO | Pending... | |
-| BONGCALES | Pending... | |
+| BONGCALES | Submitted | 2025-11-11 |
 | BULIGAN | Pending... | |
 | CALLANTA | Pending... | |
 | DURAN | Pending... | |
