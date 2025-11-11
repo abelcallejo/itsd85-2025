@@ -8,7 +8,6 @@ Understand and follow the instructions carefully. **Push 2 separate commits** fo
  2. date of submission into *`yyyy-mm-dd`* format.
 
 Make sure to not edit other else's record by following the recommended git procedure from the discussions. See example...
-
 ## Laboratory exercise
 
 | Name | Status | Date submitted |
@@ -20,13 +19,13 @@ Make sure to not edit other else's record by following the recommended git proce
 | AMOY | Submitted | 2025-11-11 |
 | APOLINARES | Pending... | |
 | AYUBAN | Pending... | |
-| BANCAT | Pending... | |
+| BANCAT | Submitted | 2025-11-11 |
 | BERONIO | Submitted | 2025-11-11 |
-| BOJO | Pending... | |
+| BOJO | Submitted | 2025-11-11 |
 | BONGCALES | Submitted | 2025-11-11 |
-| BULIGAN | Pending... | |
+| BULIGAN | Submitted | 2025-11-11 |
 | CALLANTA | Submitted | 2025-11-11 |
-| DURAN | Pending... | |
+| DURAN | Submitted | |
 | ECOT | Pending... | |
 | HUERVAS | Pending... | |
 | INSO | Pending... | |
@@ -37,9 +36,9 @@ Make sure to not edit other else's record by following the recommended git proce
 | LAPAÑA | Pending... | |
 | LIBARDOS | Pending... | |
 | LIMBAGA | Pending... | |
-| PAPASIN | Submitted | |
+| PAPASIN | Submitted |2025-11-11 |
 | PROSIA | Pending... | |
 | REDONDO | Submitted | 2025-11-11 |
 | RUBI | Submitted | 2025-11-11 |
 | SAMBILE | Pending... | |
-| TABARNO | Submitted| 2025-11-11 |
+| TABARNO | Submitted | 2025-11-11 |
