@@ -34,11 +34,7 @@ Make sure to not edit other else's record by following the recommended git proce
 | LABRADOR | Submitted | 2025-11-11 |
 | LACTAOTAO | Pending... | |
 | LAGROSAS | Submintted |2025-11-11|
-<<<<<<< HEAD
 | LAPAÑA | Submitted | 2025-11-11 |
-=======
-| LAPAÑA | Submitted | |
->>>>>>> 48ae8138b9d867320869b4133910fd80ae54acb7
 | LIBARDOS | Pending... | |
 | LIMBAGA | Pending... | |
 | PAPASIN | Submitted |2025-11-11 |
