@@ -45,5 +45,5 @@ Make sure to not edit other else's record by following the recommended git proce
 | PROSIA          | Pending... |                |
 | REDONDO         | Submitted  | 2025-11-11     |
 | RUBI            | Submitted  | 2025-11-11     |
-| SAMBILE         | Submitted  |                |
+| SAMBILE         | Submitted  | 2025-11-17     |
 | TABARNO         | Submitted  | 2025-11-11     |
