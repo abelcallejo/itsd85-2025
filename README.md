@@ -18,7 +18,7 @@ Make sure to not edit other else's record by following the recommended git proce
 | Name            | Status     | Date submitted | Commit #1 | Commit #2 |
 | --------------- | ---------- | -------------- | - | - |
 | CALLEJO *example* | Submitted | 2025-11-18 | [c73196ba6adff50e4a6bad8d103e4328a1e80183](https://github.com/abelcallejo/itsd85-2025/commit/c73196ba6adff50e4a6bad8d103e4328a1e80183) | [7c2a006f192873dd03adf426581a7aa73e39ac3a](https://github.com/abelcallejo/itsd85-2025/commit/7c2a006f192873dd03adf426581a7aa73e39ac3a) |
-| ALAJID          | Submitted  | 2025-11-11     | | [16db8be024bffd57f7d3aa59414897b84d799a8e] (https://github.com/abelcallejo/itsd85-2025/commit/16db8be024bffd57f7d3aa59414897b84d799a8e) |
+| ALAJID          | Submitted  | 2025-11-11     | | [16db8be024bffd57f7d3aa59414897b84d799a8e] (https://github.com/abelcallejo/itsd85-2025/commit 16db8be024bffd57f7d3aa59414897b84d799a8e) |
 | ALIWATE         | Submitted  | 2025-11-11     | | |
 | ALLEN           | Submitted  | 2025-11-18     | | |
 | AMOY            | Submitted  | 2025-11-11     | [9f0c05c0f87b0e2dbe2848bc02e88ab4362f97d6](https://github.com/abelcallejo/itsd85-2025/commit/9f0c05c0f87b0e2dbe2848bc02e88ab4362f97d6) | [9629df07689fd49fd6772fc8cad941393a174d45](https://github.com/abelcallejo/itsd85-2025/commit/9629df07689fd49fd6772fc8cad941393a174d45) |
@@ -39,7 +39,7 @@ Make sure to not edit other else's record by following the recommended git proce
 | LACTAOTAO       | Pending... |                | | |
 | LAGROSAS        | Submitted  | 2025-11-11     | | |
 | LAPAÑA          | Submitted  | 2025-11-11     | [aff9c13289b16d8cd7c10f101e2546433e74409b](https://github.com/abelcallejo/itsd85-2025/commit/aff9c13289b16d8cd7c10f101e2546433e74409b) | |
-| LIBARDOS        | Pending... |                | | |
+| LIBARDOS        | Pending... |                | [d0172c7dbb909e82cb26b57d0e5d8b50d55201b7](https://github.com/abelcallejo/itsd85-2025/commit/d0172c7dbb909e82cb26b57d0e5d8b50d55201b7) | |
 | LIMBAGA         | Pending... |                | | |
 | PAPASIN         | Submitted  | 2025-11-11     | [3f64d9d8fb84146832c52ff09e12901007879baa](https://github.com/abelcallejo/itsd85-2025/commit/3f64d9d8fb84146832c52ff09e12901007879baa)| [708b7b8f3fb9d8dd39dad4b5c5c122b7f4feddd6](https://github.com/abelcallejo/itsd85-2025/commit/708b7b8f3fb9d8dd39dad4b5c5c122b7f4feddd6)|
 | PROSIA          | Pending... |                | | |
