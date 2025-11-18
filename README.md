@@ -32,7 +32,7 @@ Make sure to not edit other else's record by following the recommended git proce
 | BULIGAN         | Pending... |                | [d5f6d238f26c52d34e6bf593a9d5e9e48cbb15ac](https://github.com/abelcallejo/itsd85-2025/commit/2ba810520e31bcc46854263dd36b61166b77619c) | [d5f6d238f26c52d34e6bf593a9d5e9e48cbb15ac](https://github.com/abelcallejo/itsd85-2025/commit/d5f6d238f26c52d34e6bf593a9d5e9e48cbb15ac) |
 | CALLANTA        | Submitted  | 2025-11-11     | | |
 | DURAN           | Submitted  | 2025-11-11     | [f94ca74158edf3ad560c0dd2dd7c3266fcaffd4e](https://github.com/abelcallejo/itsd85-2025/commit/f94ca74158edf3ad560c0dd2dd7c3266fcaffd4e) | [6115860b68cdb9ed19a104d85d5c38516d40f452](https://github.com/abelcallejo/itsd85-2025/commit/6115860b68cdb9ed19a104d85d5c38516d40f452) |
-| ECOT            | Submitted  | 2025-11-11     | | |
+| ECOT            | Submitted  | 2025-11-11     | [216eac5701edd46e2301460b1e37248309e0257b] |
 | HUERVAS         | Submitted  | 2025-11-11     | | |
 | INSO            | Submitted  | 2025-11-11     | [ec53b7d6b8edc0d2f7ed10df84e59d3778b138ad](https://github.com/abelcallejo/itsd85-2025/commit/ec53b7d6b8edc0d2f7ed10df84e59d3778b138ad) | [1dc784ace18ac6551b7082c429c8c1d3aeac90c9](https://github.com/abelcallejo/itsd85-2025/commit/1dc784ace18ac6551b7082c429c8c1d3aeac90c9) | 
 | JUMAO-AS        | Submitted  | 2025-11-11     | | |
