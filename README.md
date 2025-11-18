@@ -20,7 +20,7 @@ Make sure to not edit other else's record by following the recommended git proce
 | CALLEJO *example* | Submitted | 2025-11-18 | [c73196ba6adff50e4a6bad8d103e4328a1e80183](https://github.com/abelcallejo/itsd85-2025/commit/c73196ba6adff50e4a6bad8d103e4328a1e80183) | [7c2a006f192873dd03adf426581a7aa73e39ac3a](https://github.com/abelcallejo/itsd85-2025/commit/7c2a006f192873dd03adf426581a7aa73e39ac3a) |
 | ALAJID          | Submitted  | 2025-11-11     | | [16db8be024bffd57f7d3aa59414897b84d799a8e] (https://github.com/abelcallejo/itsd85-2025/commit 16db8be024bffd57f7d3aa59414897b84d799a8e) |
 | ALIWATE         | Submitted  | 2025-11-11     | [713cdcba8a8c805a05738209a64496370195b3ca](https://github.com/abelcallejo/itsd85-2025/commit/713cdcba8a8c805a05738209a64496370195b3ca) | [16db8be024bffd57f7d3aa59414897b84d799a8e](https://github.com/abelcallejo/itsd85-2025/commit/16db8be024bffd57f7d3aa59414897b84d799a8e) |
-| ALLEN           | Submitted  | 2025-11-18     | | |
+| ALLEN           | Submitted  | 2025-11-18     | | | [a5073151037202d7769b8cbddd70013754def513] (https://github.com/abelcallejo/itsd85-2025/commit/a5073151037202d7769b8cbddd70013754def513)
 | AMOY            | Submitted  | 2025-11-11     | [9f0c05c0f87b0e2dbe2848bc02e88ab4362f97d6](https://github.com/abelcallejo/itsd85-2025/commit/9f0c05c0f87b0e2dbe2848bc02e88ab4362f97d6) | [9629df07689fd49fd6772fc8cad941393a174d45](https://github.com/abelcallejo/itsd85-2025/commit/9629df07689fd49fd6772fc8cad941393a174d45) |
 | AYUBAN          | Submitted  | 2025-11-11     | | |
 | APOLINARES      | Submitted  | 2025-11-11     | | |
@@ -44,6 +44,10 @@ Make sure to not edit other else's record by following the recommended git proce
 | PAPASIN         | Submitted  | 2025-11-11     | [3f64d9d8fb84146832c52ff09e12901007879baa](https://github.com/abelcallejo/itsd85-2025/commit/3f64d9d8fb84146832c52ff09e12901007879baa)| [708b7b8f3fb9d8dd39dad4b5c5c122b7f4feddd6](https://github.com/abelcallejo/itsd85-2025/commit/708b7b8f3fb9d8dd39dad4b5c5c122b7f4feddd6)|
 | PROSIA          | Pending... |                | | |
 | REDONDO         | Submitted  | 2025-11-11     | | |
+<<<<<<< HEAD
+| RUBI            | Submitted  | 2025-11-11     | [6f292166d1d79e0c8ef92401e3e5a445d4b8e17b](https://github.com/abelcallejo/itsd85-2025/commit/6f292166d1d79e0c8ef92401e3e5a445d4b8e17b)| |
+=======
 | RUBI            | Submitted  | 2025-11-11     | [6f292166d1d79e0c8ef92401e3e5a445d4b8e17b](https://github.com/abelcallejo/itsd85-2025/commit/6f292166d1d79e0c8ef92401e3e5a445d4b8e17b)| [a5951240083bb711300e8148e06fd5ff83f4b0da](https://github.com/abelcallejo/itsd85-2025/commit/a5951240083bb711300e8148e06fd5ff83f4b0da) |
+>>>>>>> e389f711bdf5284d82dfce9ce61baa3b6abced3c
 | SAMBILE         | Submitted  | 2025-11-17     | | |
 | TABARNO         | Submitted  | 2025-11-11     | [34f32975c62f90d7bd1a14a50ba842b84820a3a1](https://github.com/abelcallejo/itsd85-2025/commit/34f32975c62f90d7bd1a14a50ba842b84820a3a1)| [694bddb7c0adb61d53f8bfe1d19b9ba4d96d8705](https://github.com/abelcallejo/itsd85-2025/commit/694bddb7c0adb61d53f8bfe1d19b9ba4d96d8705)|
