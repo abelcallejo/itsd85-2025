@@ -25,7 +25,7 @@ Make sure to not edit other else's record by following the recommended git proce
 | AYUBAN          | Submitted  | 2025-11-11     | | |
 | APOLINARES      | Submitted  | 2025-11-11     | | |
 | BANCAT          | Submitted  | 2025-11-11     | | |
-| BERONIO         | Submitted  | 2025-11-11     | [d5b03563812ce0ed67b7c8f23d84e3068250c53a] (https://github.com/abelcallejo/itsd85-2025/commit/d5b03563812ce0ed67b7c8f23d84e3068250c53a) | |
+| BERONIO         | Submitted  | 2025-11-11     | [d5b03563812ce0ed67b7c8f23d84e3068250c53a](https://github.com/abelcallejo/itsd85-2025/commit/d5b03563812ce0ed67b7c8f23d84e3068250c53a) | |
 | BOJO            | Submitted  | 2025-11-11     | | |
 | BONGCALES       | Submitted  | 2025-11-11     | | |
 | BULIGAN         | Pending... |                | | |
