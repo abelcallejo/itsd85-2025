@@ -22,7 +22,7 @@ Make sure to not edit other else's record by following the recommended git proce
 | ALIWATE         | Submitted  | 2025-11-11     | | |
 | ALLEN           | Pending... |                | | |
 | AMOY            | Submitted  | 2025-11-11     | [9f0c05c0f87b0e2dbe2848bc02e88ab4362f97d6] (https://github.com/abelcallejo/itsd85-2025/commit/9f0c05c0f87b0e2dbe2848bc02e88ab4362f97d6) | |
-| AYUBAN          | Submitted  | 2025-11-11     | | |
+| AYUBAN          | Submitted  | 2025-11-11     | [47bc65489f3976cbb95aecbd0bb4a8b8dc839645](https://github.com/abelcallejo/itsd85-2025/commit/47bc65489f3976cbb95aecbd0bb4a8b8dc839645) | |
 | APOLINARES      | Submitted  | 2025-11-11     | | |
 | BANCAT          | Submitted  | 2025-11-11     | | |
 | BERONIO         | Submitted  | 2025-11-11     | [d5b03563812ce0ed67b7c8f23d84e3068250c53a] (https://github.com/abelcallejo/itsd85-2025/commit/d5b03563812ce0ed67b7c8f23d84e3068250c53a) | |
