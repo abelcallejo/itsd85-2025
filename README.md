@@ -44,6 +44,10 @@ Make sure to not edit other else's record by following the recommended git proce
 | PAPASIN         | Submitted  | 2025-11-11     | [3f64d9d8fb84146832c52ff09e12901007879baa](https://github.com/abelcallejo/itsd85-2025/commit/3f64d9d8fb84146832c52ff09e12901007879baa)| [708b7b8f3fb9d8dd39dad4b5c5c122b7f4feddd6](https://github.com/abelcallejo/itsd85-2025/commit/708b7b8f3fb9d8dd39dad4b5c5c122b7f4feddd6)|
 | PROSIA          | Pending... |                | | |
 | REDONDO         | Submitted  | 2025-11-11     | | |
+<<<<<<< HEAD
 | RUBI            | Submitted  | 2025-11-11     | [6f292166d1d79e0c8ef92401e3e5a445d4b8e17b](https://github.com/abelcallejo/itsd85-2025/commit/6f292166d1d79e0c8ef92401e3e5a445d4b8e17b)| |
+=======
+| RUBI            | Submitted  | 2025-11-11     | [6f292166d1d79e0c8ef92401e3e5a445d4b8e17b](https://github.com/abelcallejo/itsd85-2025/commit/6f292166d1d79e0c8ef92401e3e5a445d4b8e17b)| [a5951240083bb711300e8148e06fd5ff83f4b0da](https://github.com/abelcallejo/itsd85-2025/commit/a5951240083bb711300e8148e06fd5ff83f4b0da) |
+>>>>>>> e389f711bdf5284d82dfce9ce61baa3b6abced3c
 | SAMBILE         | Submitted  | 2025-11-17     | | |
 | TABARNO         | Submitted  | 2025-11-11     | [34f32975c62f90d7bd1a14a50ba842b84820a3a1](https://github.com/abelcallejo/itsd85-2025/commit/34f32975c62f90d7bd1a14a50ba842b84820a3a1)| [694bddb7c0adb61d53f8bfe1d19b9ba4d96d8705](https://github.com/abelcallejo/itsd85-2025/commit/694bddb7c0adb61d53f8bfe1d19b9ba4d96d8705)|
