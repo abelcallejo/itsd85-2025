@@ -16,7 +16,7 @@ Make sure to not edit other else's record by following the recommended git proce
 ## Laboratory exercise
 
 | Name            | Status     | Date submitted | Commit #1 | Commit #2 |
-| --------------- | ---------- | -------------- | | |
+| --------------- | ---------- | -------------- | - | - |
 | Callejo example | Submitted  | 2025-11-11     | | |
 | ALAJID          | Submitted  | 2025-11-11     | | |
 | ALIWATE         | Submitted  | 2025-11-11     | | |
