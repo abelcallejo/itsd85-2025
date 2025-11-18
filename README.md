@@ -18,9 +18,9 @@ Make sure to not edit other else's record by following the recommended git proce
 | Name            | Status     | Date submitted | Commit #1 | Commit #2 |
 | --------------- | ---------- | -------------- | - | - |
 | CALLEJO *example* | Submitted | 2025-11-18 | [c73196ba6adff50e4a6bad8d103e4328a1e80183](https://github.com/abelcallejo/itsd85-2025/commit/c73196ba6adff50e4a6bad8d103e4328a1e80183) | [7c2a006f192873dd03adf426581a7aa73e39ac3a](https://github.com/abelcallejo/itsd85-2025/commit/7c2a006f192873dd03adf426581a7aa73e39ac3a) |
-| ALAJID          | Submitted  | 2025-11-11     | | |
-| ALIWATE         | Submitted | 2025-11-11     | | |
-| ALLEN           | Submitted  |                | | |
+| ALAJID          | Submitted  | 2025-11-11     | | [16db8be024bffd57f7d3aa59414897b84d799a8e] (https://github.com/abelcallejo/itsd85-2025/commit 16db8be024bffd57f7d3aa59414897b84d799a8e) |
+| ALIWATE         | Submitted  | 2025-11-11     | | |
+| ALLEN           | Submitted  | 2025-11-18     | | |
 | AMOY            | Submitted  | 2025-11-11     | [9f0c05c0f87b0e2dbe2848bc02e88ab4362f97d6](https://github.com/abelcallejo/itsd85-2025/commit/9f0c05c0f87b0e2dbe2848bc02e88ab4362f97d6) | [9629df07689fd49fd6772fc8cad941393a174d45](https://github.com/abelcallejo/itsd85-2025/commit/9629df07689fd49fd6772fc8cad941393a174d45) |
 | AYUBAN          | Submitted  | 2025-11-11     | | |
 | APOLINARES      | Submitted  | 2025-11-11     | | |
@@ -46,4 +46,4 @@ Make sure to not edit other else's record by following the recommended git proce
 | REDONDO         | Submitted  | 2025-11-11     | | |
 | RUBI            | Submitted  | 2025-11-11     | | |
 | SAMBILE         | Submitted  | 2025-11-17     | | |
-| TABARNO         | Submitted  | 2025-11-11     | | |
+| TABARNO         | Submitted  | 2025-11-11     | [34f32975c62f90d7bd1a14a50ba842b84820a3a1](https://github.com/abelcallejo/itsd85-2025/commit/34f32975c62f90d7bd1a14a50ba842b84820a3a1)| [694bddb7c0adb61d53f8bfe1d19b9ba4d96d8705](https://github.com/abelcallejo/itsd85-2025/commit/694bddb7c0adb61d53f8bfe1d19b9ba4d96d8705)|
