@@ -28,7 +28,7 @@ Make sure to not edit other else's record by following the recommended git proce
 | BERONIO         | Submitted  | 2025-11-11     | [d5b03563812ce0ed67b7c8f23d84e3068250c53a](https://github.com/abelcallejo/itsd85-2025/commit/d5b03563812ce0ed67b7c8f23d84e3068250c53a) | [4111673d2d0b530a605090d6cb6cf0b7255c76f2](https://github.com/abelcallejo/itsd85-2025/commit/4111673d2d0b530a605090d6cb6cf0b7255c76f2)|
 | BOJO            | Submitted  | 2025-11-11     | | |
 | BONGCALES       | Submitted  | 2025-11-11     | | |
-| BULIGAN         | Pending... |                | | | [2ba810520e31bcc46854263dd36b61166b77619c](2ba810520e31bcc46854263dd36b61166b77619c)
+| BULIGAN         | Pending... |                | | |  [d5f6d238f26c52d34e6bf593a9d5e9e48cbb15ac](d5f6d238f26c52d34e6bf593a9d5e9e48cbb15ac)
 | CALLANTA        | Submitted  | 2025-11-11     | | |
 | DURAN           | Submitted  | 2025-11-11     | [f94ca74158edf3ad560c0dd2dd7c3266fcaffd4e](https://github.com/abelcallejo/itsd85-2025/commit/f94ca74158edf3ad560c0dd2dd7c3266fcaffd4e) | [6115860b68cdb9ed19a104d85d5c38516d40f452](https://github.com/abelcallejo/itsd85-2025/commit/6115860b68cdb9ed19a104d85d5c38516d40f452) |
 | ECOT            | Submitted  | 2025-11-11     | | |
