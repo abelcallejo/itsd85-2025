@@ -30,7 +30,7 @@ Make sure to not edit other else's record by following the recommended git proce
 | BONGCALES       | Submitted  | 2025-11-11     | | |
 | BULIGAN         | Pending... |                | | |
 | CALLANTA        | Submitted  | 2025-11-11     | | |
-| DURAN           | Submitted  | 2025-11-11     | [f94ca74158edf3ad560c0dd2dd7c3266fcaffd4e](https://github.com/abelcallejo/itsd85-2025/commit/f94ca74158edf3ad560c0dd2dd7c3266fcaffd4e) | |
+| DURAN           | Submitted  | 2025-11-11     | [f94ca74158edf3ad560c0dd2dd7c3266fcaffd4e](https://github.com/abelcallejo/itsd85-2025/commit/f94ca74158edf3ad560c0dd2dd7c3266fcaffd4e) | [6115860b68cdb9ed19a104d85d5c38516d40f452](https://github.com/abelcallejo/itsd85-2025/commit/6115860b68cdb9ed19a104d85d5c38516d40f452) |
 | ECOT            | Submitted  | 2025-11-11     | | |
 | HUERVAS         | Submitted  | 2025-11-11     | | |
 | INSO            | Pending... |                | | |
