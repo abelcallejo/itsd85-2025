@@ -35,7 +35,7 @@ Make sure to not edit other else's record by following the recommended git proce
 | HUERVAS         | Submitted  | 2025-11-11     | | |
 | INSO            | Pending... |                | | |
 | JUMAO-AS        | Submitted  | 2025-11-11     | | |
-| LABRADOR        | Submitted  | 2025-11-11     | | |
+| LABRADOR        | Submitted  | 2025-11-11     | [d59153067474a244a730aaaa4d1d8df8f7a06eb5](https://github.com/abelcallejo/itsd85-2025/commit/d59153067474a244a730aaaa4d1d8df8f7a06eb5)| [ee2434b5b91d2b5b1f91c70f000a299fc17b57b4](https://github.com/abelcallejo/itsd85-2025/commit/ee2434b5b91d2b5b1f91c70f000a299fc17b57b4)|
 | LACTAOTAO       | Pending... |                | | |
 | LAGROSAS        | Submitted  | 2025-11-11     | | |
 | LAPAÑA          | Submitted  | 2025-11-11     | [aff9c13289b16d8cd7c10f101e2546433e74409b]()https://github.com/abelcallejo/itsd85-2025/commit/aff9c13289b16d8cd7c10f101e2546433e74409b | |
