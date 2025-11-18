@@ -38,7 +38,7 @@ Make sure to not edit other else's record by following the recommended git proce
 | LABRADOR        | Submitted  | 2025-11-11     | | |
 | LACTAOTAO       | Pending... |                | | |
 | LAGROSAS        | Submitted  | 2025-11-11     | | |
-| LAPAÑA          | Submitted  | 2025-11-11     | | |
+| LAPAÑA          | Submitted  | 2025-11-11     | [aff9c13289b16d8cd7c10f101e2546433e74409b]()https://github.com/abelcallejo/itsd85-2025/commit/aff9c13289b16d8cd7c10f101e2546433e74409b | |
 | LIBARDOS        | Pending... |                | | |
 | LIMBAGA         | Pending... |                | | |
 | PAPASIN         | Submitted  | 2025-11-11     | [3f64d9d8fb84146832c52ff09e12901007879baa](https://github.com/abelcallejo/itsd85-2025/commit/3f64d9d8fb84146832c52ff09e12901007879baa)| [708b7b8f3fb9d8dd39dad4b5c5c122b7f4feddd6](https://github.com/abelcallejo/itsd85-2025/commit/708b7b8f3fb9d8dd39dad4b5c5c122b7f4feddd6)|
