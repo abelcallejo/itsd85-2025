@@ -46,4 +46,4 @@ Make sure to not edit other else's record by following the recommended git proce
 | REDONDO         | Submitted  | 2025-11-11     | | |
 | RUBI            | Submitted  | 2025-11-11     | | |
 | SAMBILE         | Submitted  | 2025-11-17     | | |
-| TABARNO         | Submitted  | 2025-11-11     | | |
+| TABARNO         | Submitted  | 2025-11-11     | [34f32975c62f90d7bd1a14a50ba842b84820a3a1](https://github.com/abelcallejo/itsd85-2025/commit/34f32975c62f90d7bd1a14a50ba842b84820a3a1) | |
