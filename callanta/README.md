@@ -10,14 +10,23 @@ A short description of who you are and what you do. Example: "Full-stack develop
 ## **Skills**
 
 JavaScript
+
 React Native Expo
+
 Node.js
+
 HTML & CSS
+
 .NET 
+
 Flutter
+
 Laravel Vue & Bootstrap
+
 Java
+
 Python
+
 Linux Arch Environment
 
 ## **Projects**
@@ -28,6 +37,9 @@ BusTrak — Online bus seat booking and tracking
 
 ## **Contact**
 Email: nahoynikulcallanta@gmail.com
+
 GitHub: github.com/NuxPower
+
 LinkedIn: linkedin.com/in/yohan-callanta-275b1a187/
+
 Portfolio: nuxpower.github.io/myweb/
