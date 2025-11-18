@@ -20,7 +20,7 @@ Make sure to not edit other else's record by following the recommended git proce
 | CALLEJO *example* | Submitted | 2025-11-18 | [c73196ba6adff50e4a6bad8d103e4328a1e80183](https://github.com/abelcallejo/itsd85-2025/commit/c73196ba6adff50e4a6bad8d103e4328a1e80183) | [7c2a006f192873dd03adf426581a7aa73e39ac3a](https://github.com/abelcallejo/itsd85-2025/commit/7c2a006f192873dd03adf426581a7aa73e39ac3a) |
 | ALAJID          | Submitted  | 2025-11-11     | | [16db8be024bffd57f7d3aa59414897b84d799a8e] (https://github.com/abelcallejo/itsd85-2025/commit/16db8be024bffd57f7d3aa59414897b84d799a8e) |
 | ALIWATE         | Submitted  | 2025-11-11     | | |
-| ALLEN           | Submitted  |                | | |
+| ALLEN           | Submitted  | 2025-11-18     | | |
 | AMOY            | Submitted  | 2025-11-11     | | |
 | AYUBAN          | Submitted  | 2025-11-11     | | |
 | APOLINARES      | Submitted  | 2025-11-11     | | |
