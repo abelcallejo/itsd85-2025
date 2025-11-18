@@ -35,7 +35,7 @@ Make sure to not edit other else's record by following the recommended git proce
 | ECOT            | Submitted  | 2025-11-11     | | |
 | HUERVAS         | Submitted  | 2025-11-11     | | |
 | INSO            | Submitted  | 2025-11-11     | [ec53b7d6b8edc0d2f7ed10df84e59d3778b138ad](https://github.com/abelcallejo/itsd85-2025/commit/ec53b7d6b8edc0d2f7ed10df84e59d3778b138ad) | | 
-| JUMAO-AS        | Submitted  | 2025-11-11     |[e86a3a8a153bf8f581a3b5973c51e7e50312444f] (https://github.com/abelcallejo/itsd85-2025/commit/3c1cfa00cb4e43e6325d09c6cb8283d12fceda96)| |
+| JUMAO-AS        | Submitted  | 2025-11-11     |[e86a3a8a153bf8f581a3b5973c51e7e50312444f](https://github.com/abelcallejo/itsd85-2025/commit/3c1cfa00cb4e43e6325d09c6cb8283d12fceda96)   |
 | LABRADOR        | Submitted  | 2025-11-11     | [d59153067474a244a730aaaa4d1d8df8f7a06eb5](https://github.com/abelcallejo/itsd85-2025/commit/d59153067474a244a730aaaa4d1d8df8f7a06eb5)| [ee2434b5b91d2b5b1f91c70f000a299fc17b57b4](https://github.com/abelcallejo/itsd85-2025/commit/ee2434b5b91d2b5b1f91c70f000a299fc17b57b4)|
 | LACTAOTAO       | Submitted  | 2025-11-18     |[647c772cfe89cc7edac8cabeff57b1e92efc28ca](https://github.com/abelcallejo/itsd85-2025/commit/647c772cfe89cc7edac8cabeff57b1e92efc28ca) | [9917dd48e19b3835bfc36f95cffe293d67f28183](https://github.com/abelcallejo/itsd85-2025/commit/9917dd48e19b3835bfc36f95cffe293d67f28183) |
 | LAGROSAS        | Submitted  | 2025-11-11     |[4c0cd0a54bdd7ec5d81663a53e737efb014462d3](https://github.com/abelcallejo/itsd85-2025/commit/4c0cd0a54bdd7ec5d81663a53e737efb014462d3) |[aa9b095915e663c7a8a023dc260e19582f5ee80f](https://github.com/abelcallejo/itsd85-2025/commit/aa9b095915e663c7a8a023dc260e19582f5ee80f)|
