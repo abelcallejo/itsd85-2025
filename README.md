@@ -44,6 +44,6 @@ Make sure to not edit other else's record by following the recommended git proce
 | PAPASIN         | Submitted  | 2025-11-11     | [3f64d9d8fb84146832c52ff09e12901007879baa](https://github.com/abelcallejo/itsd85-2025/commit/3f64d9d8fb84146832c52ff09e12901007879baa)| [708b7b8f3fb9d8dd39dad4b5c5c122b7f4feddd6](https://github.com/abelcallejo/itsd85-2025/commit/708b7b8f3fb9d8dd39dad4b5c5c122b7f4feddd6)|
 | PROSIA          | Pending... |                | | |
 | REDONDO         | Submitted  | 2025-11-11     | | |
-| RUBI            | Submitted  | 2025-11-11     | | |
+| RUBI            | Submitted  | 2025-11-11     | [6f292166d1d79e0c8ef92401e3e5a445d4b8e17b](https://github.com/abelcallejo/itsd85-2025/commit/6f292166d1d79e0c8ef92401e3e5a445d4b8e17b)| |
 | SAMBILE         | Submitted  | 2025-11-17     | | |
 | TABARNO         | Submitted  | 2025-11-11     | | |
