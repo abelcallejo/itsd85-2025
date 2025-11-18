@@ -36,7 +36,7 @@ Make sure to not edit other else's record by following the recommended git proce
 | INSO            | Pending... |                | | |
 | JUMAO-AS        | Submitted  | 2025-11-11     | | |
 | LABRADOR        | Submitted  | 2025-11-11     | [d59153067474a244a730aaaa4d1d8df8f7a06eb5](https://github.com/abelcallejo/itsd85-2025/commit/d59153067474a244a730aaaa4d1d8df8f7a06eb5)| [ee2434b5b91d2b5b1f91c70f000a299fc17b57b4](https://github.com/abelcallejo/itsd85-2025/commit/ee2434b5b91d2b5b1f91c70f000a299fc17b57b4)|
-| LACTAOTAO       | Pending... |                | | |
+| LACTAOTAO       | Submitted  |                | | |
 | LAGROSAS        | Submitted  | 2025-11-11     |[4c0cd0a54bdd7ec5d81663a53e737efb014462d3](https://github.com/abelcallejo/itsd85-2025/commit/4c0cd0a54bdd7ec5d81663a53e737efb014462d3) |[aa9b095915e663c7a8a023dc260e19582f5ee80f](https://github.com/abelcallejo/itsd85-2025/commit/aa9b095915e663c7a8a023dc260e19582f5ee80f)|
 | LAPAÑA          | Submitted  | 2025-11-11     | [aff9c13289b16d8cd7c10f101e2546433e74409b](https://github.com/abelcallejo/itsd85-2025/commit/aff9c13289b16d8cd7c10f101e2546433e74409b) | |
 | LIBARDOS        | Pending... |                | [d0172c7dbb909e82cb26b57d0e5d8b50d55201b7](https://github.com/abelcallejo/itsd85-2025/commit/d0172c7dbb909e82cb26b57d0e5d8b50d55201b7) | [4111673d2d0b530a605090d6cb6cf0b7255c76f2](https://github.com/abelcallejo/itsd85-2025/commit/4111673d2d0b530a605090d6cb6cf0b7255c76f2) |
