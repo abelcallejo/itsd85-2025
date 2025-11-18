@@ -24,7 +24,7 @@ Make sure to not edit other else's record by following the recommended git proce
 | AMOY            | Submitted  | 2025-11-11     | [9f0c05c0f87b0e2dbe2848bc02e88ab4362f97d6](https://github.com/abelcallejo/itsd85-2025/commit/9f0c05c0f87b0e2dbe2848bc02e88ab4362f97d6) | [9629df07689fd49fd6772fc8cad941393a174d45](https://github.com/abelcallejo/itsd85-2025/commit/9629df07689fd49fd6772fc8cad941393a174d45) |
 | AYUBAN          | Submitted  | 2025-11-11     | | |
 | APOLINARES      | Submitted  | 2025-11-11     | | |
-| BANCAT          | Submitted  | 2025-11-11     | | |
+| BANCAT          | Submitted  | 2025-11-11     | [7c02193b2bc1edd65ae9c6dc3a1dc8347c811a97](https://github.com/abelcallejo/itsd85-2025/commit/7c02193b2bc1edd65ae9c6dc3a1dc8347c811a97) | [93b83bbdc72772c8a4fd4bf932a6fd262e7f454d](https://github.com/abelcallejo/itsd85-2025/commit/93b83bbdc72772c8a4fd4bf932a6fd262e7f454d) |
 | BERONIO         | Submitted  | 2025-11-11     | [d5b03563812ce0ed67b7c8f23d84e3068250c53a](https://github.com/abelcallejo/itsd85-2025/commit/d5b03563812ce0ed67b7c8f23d84e3068250c53a) | [4111673d2d0b530a605090d6cb6cf0b7255c76f2](https://github.com/abelcallejo/itsd85-2025/commit/4111673d2d0b530a605090d6cb6cf0b7255c76f2)|
 | BOJO            | Submitted  | 2025-11-11     | | |
 | BONGCALES       | Submitted  | 2025-11-11     | | |
