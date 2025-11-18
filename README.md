@@ -21,7 +21,7 @@ Make sure to not edit other else's record by following the recommended git proce
 | ALAJID          | Submitted  | 2025-11-11     | | [16db8be024bffd57f7d3aa59414897b84d799a8e] (https://github.com/abelcallejo/itsd85-2025/commit/16db8be024bffd57f7d3aa59414897b84d799a8e) |
 | ALIWATE         | Submitted  | 2025-11-11     | | |
 | ALLEN           | Submitted  |                | | |
-| AMOY            | Submitted  | 2025-11-11     | | |
+| AMOY            | Submitted  | 2025-11-11     | [9f0c05c0f87b0e2dbe2848bc02e88ab4362f97d6](https://github.com/abelcallejo/itsd85-2025/commit/9f0c05c0f87b0e2dbe2848bc02e88ab4362f97d6) | |
 | AYUBAN          | Submitted  | 2025-11-11     | | |
 | APOLINARES      | Submitted  | 2025-11-11     | | |
 | BANCAT          | Submitted  | 2025-11-11     | | |
