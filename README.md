@@ -18,7 +18,7 @@ Make sure to not edit other else's record by following the recommended git proce
 | Name            | Status     | Date submitted | Commit #1 | Commit #2 |
 | --------------- | ---------- | -------------- | - | - |
 | CALLEJO *example* | Submitted | 2025-11-18 | [c73196ba6adff50e4a6bad8d103e4328a1e80183](https://github.com/abelcallejo/itsd85-2025/commit/c73196ba6adff50e4a6bad8d103e4328a1e80183) | [7c2a006f192873dd03adf426581a7aa73e39ac3a](https://github.com/abelcallejo/itsd85-2025/commit/7c2a006f192873dd03adf426581a7aa73e39ac3a) |
-| ALAJID          | Submitted  | 2025-11-11     | | |
+| ALAJID          | Submitted  | 2025-11-11     | | [16db8be024bffd57f7d3aa59414897b84d799a8e] (https://github.com/abelcallejo/itsd85-2025/commit/16db8be024bffd57f7d3aa59414897b84d799a8e) |
 | ALIWATE         | Submitted  | 2025-11-11     | | |
 | ALLEN           | Submitted  |                | | |
 | AMOY            | Submitted  | 2025-11-11     | | |
@@ -41,7 +41,7 @@ Make sure to not edit other else's record by following the recommended git proce
 | LAPAÑA          | Submitted  | 2025-11-11     | | |
 | LIBARDOS        | Pending... |                | | |
 | LIMBAGA         | Pending... |                | | |
-| PAPASIN         | Submitted  | 2025-11-11     | [3f64d9d8fb84146832c52ff09e12901007879baa]| |
+| PAPASIN         | Submitted  | 2025-11-11     | [3f64d9d8fb84146832c52ff09e12901007879baa](https://github.com/abelcallejo/itsd85-2025/commit/3f64d9d8fb84146832c52ff09e12901007879baa)| |
 | PROSIA          | Pending... |                | | |
 | REDONDO         | Submitted  | 2025-11-11     | | |
 | RUBI            | Submitted  | 2025-11-11     | | |
