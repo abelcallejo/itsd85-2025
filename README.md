@@ -41,7 +41,7 @@ Make sure to not edit other else's record by following the recommended git proce
 | LAPAÑA          | Submitted  | 2025-11-11     | | |
 | LIBARDOS        | Pending... |                | | |
 | LIMBAGA         | Pending... |                | | |
-| PAPASIN         | Submitted  | 2025-11-11     | [3f64d9d8fb84146832c52ff09e12901007879baa]| |
+| PAPASIN         | Submitted  | 2025-11-11     | [3f64d9d8fb84146832c52ff09e12901007879baa](https://github.com/abelcallejo/itsd85-2025/commit/3f64d9d8fb84146832c52ff09e12901007879baa)| |
 | PROSIA          | Pending... |                | | |
 | REDONDO         | Submitted  | 2025-11-11     | | |
 | RUBI            | Submitted  | 2025-11-11     | | |
