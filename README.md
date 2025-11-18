@@ -17,7 +17,7 @@ Make sure to not edit other else's record by following the recommended git proce
 
 | Name            | Status     | Date submitted | Commit #1 | Commit #2 |
 | --------------- | ---------- | -------------- | - | - |
-| CALLEJO *example* | Submitted | | | |
+| CALLEJO *example* | Submitted | 2025-11-18 | | |
 | ALAJID          | Submitted  | 2025-11-11     | | |
 | ALIWATE         | Submitted  | 2025-11-11     | | |
 | ALLEN           | Pending... |                | | |
