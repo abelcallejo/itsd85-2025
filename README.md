@@ -15,35 +15,35 @@ Make sure to not edit other else's record by following the recommended git proce
 
 ## Laboratory exercise
 
-| Name            | Status     | Date submitted |
-| --------------- | ---------- | -------------- |
-| Callejo example | Submitted  | 2025-11-11     |
-| ALAJID          | Submitted  | 2025-11-11     |
-| ALIWATE         | Submitted  | 2025-11-11     |
-| ALLEN           | Pending... |                |
-| AMOY            | Submitted  | 2025-11-11     |
-| AYUBAN          | Submitted  | 2025-11-11     |
-| APOLINARES      | Submitted  | 2025-11-11     |
-| BANCAT          | Submitted  | 2025-11-11     |
-| BERONIO         | Submitted  | 2025-11-11     |
-| BOJO            | Submitted  | 2025-11-11     |
-| BONGCALES       | Submitted  | 2025-11-11     |
-| BULIGAN         | Pending... |                |
-| CALLANTA        | Submitted  | 2025-11-11     |
-| DURAN           | Submitted  | 2025-11-11     |
-| ECOT            | Submitted  | 2025-11-11     |
-| HUERVAS         | Submitted  | 2025-11-11     |
-| INSO            | Pending... |                |
-| JUMAO-AS        | Submitted  | 2025-11-11     |
-| LABRADOR        | Submitted  | 2025-11-11     |
-| LACTAOTAO       | Pending... |                |
-| LAGROSAS        | Submitted  | 2025-11-11     |
-| LAPAÑA          | Submitted  | 2025-11-11     |
-| LIBARDOS        | Pending... |                |
-| LIMBAGA         | Pending... |                |
-| PAPASIN         | Submitted  | 2025-11-11     |
-| PROSIA          | Pending... |                |
-| REDONDO         | Submitted  | 2025-11-11     |
-| RUBI            | Submitted  | 2025-11-11     |
-| SAMBILE         | Submitted  | 2025-11-17     |
-| TABARNO         | Submitted  | 2025-11-11     |
+| Name            | Status     | Date submitted | Commit #1 | Commit #2 |
+| --------------- | ---------- | -------------- | | |
+| Callejo example | Submitted  | 2025-11-11     | | |
+| ALAJID          | Submitted  | 2025-11-11     | | |
+| ALIWATE         | Submitted  | 2025-11-11     | | |
+| ALLEN           | Pending... |                | | |
+| AMOY            | Submitted  | 2025-11-11     | | |
+| AYUBAN          | Submitted  | 2025-11-11     | | |
+| APOLINARES      | Submitted  | 2025-11-11     | | |
+| BANCAT          | Submitted  | 2025-11-11     | | |
+| BERONIO         | Submitted  | 2025-11-11     | | |
+| BOJO            | Submitted  | 2025-11-11     | | |
+| BONGCALES       | Submitted  | 2025-11-11     | | |
+| BULIGAN         | Pending... |                | | |
+| CALLANTA        | Submitted  | 2025-11-11     | | |
+| DURAN           | Submitted  | 2025-11-11     | | |
+| ECOT            | Submitted  | 2025-11-11     | | |
+| HUERVAS         | Submitted  | 2025-11-11     | | |
+| INSO            | Pending... |                | | |
+| JUMAO-AS        | Submitted  | 2025-11-11     | | |
+| LABRADOR        | Submitted  | 2025-11-11     | | |
+| LACTAOTAO       | Pending... |                | | |
+| LAGROSAS        | Submitted  | 2025-11-11     | | |
+| LAPAÑA          | Submitted  | 2025-11-11     | | |
+| LIBARDOS        | Pending... |                | | |
+| LIMBAGA         | Pending... |                | | |
+| PAPASIN         | Submitted  | 2025-11-11     | | |
+| PROSIA          | Pending... |                | | |
+| REDONDO         | Submitted  | 2025-11-11     | | |
+| RUBI            | Submitted  | 2025-11-11     | | |
+| SAMBILE         | Submitted  | 2025-11-17     | | |
+| TABARNO         | Submitted  | 2025-11-11     | | |
