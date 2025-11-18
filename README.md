@@ -32,10 +32,9 @@ Make sure to not edit other else's record by following the recommended git proce
 | BULIGAN         | Pending... |                | [d5f6d238f26c52d34e6bf593a9d5e9e48cbb15ac](https://github.com/abelcallejo/itsd85-2025/commit/2ba810520e31bcc46854263dd36b61166b77619c) | [d5f6d238f26c52d34e6bf593a9d5e9e48cbb15ac](https://github.com/abelcallejo/itsd85-2025/commit/d5f6d238f26c52d34e6bf593a9d5e9e48cbb15ac) |
 | CALLANTA        | Submitted  | 2025-11-11     | | |
 | DURAN           | Submitted  | 2025-11-11     | [f94ca74158edf3ad560c0dd2dd7c3266fcaffd4e](https://github.com/abelcallejo/itsd85-2025/commit/f94ca74158edf3ad560c0dd2dd7c3266fcaffd4e) | [6115860b68cdb9ed19a104d85d5c38516d40f452](https://github.com/abelcallejo/itsd85-2025/commit/6115860b68cdb9ed19a104d85d5c38516d40f452) |
-| ECOT            | Submitted  | 2025-11-18     | [c80b49856b6eb3b267ff6cac4837cebcc0f9506d](https://github.com/abelcallejo/itsd85-2025/commit/c80b49856b6eb3b267ff6cac4837cebcc0f9506d) |
-[9bf472be0e568a6abc660a7a9dfd5a4bc9568d2a](https://github.com/abelcallejo/itsd85-2025/commit/9bf472be0e568a6abc660a7a9dfd5a4bc9568d2a)
+| ECOT            | Submitted  | 2025-11-11     | [c80b49856b6eb3b267ff6cac4837cebcc0f9506d](https://github.com/abelcallejo/itsd85-2025/commit/c80b49856b6eb3b267ff6cac4837cebcc0f9506d) | [9bf472be0e568a6abc660a7a9dfd5a4bc9568d2a](https://github.com/abelcallejo/itsd85-2025/commit/6115860b68cdb9ed19a104d85d5c38516d40f452) |
 | HUERVAS         | Submitted  | 2025-11-11     | | |
-| INSO            | Submitted  | 2025-11-11     | [ec53b7d6b8edc0d2f7ed10df84e59d3778b138ad](https://github.com/abelcallejo/itsd85-2025/commit/ec53b7d6b8edc0d2f7ed10df84e59d3778b138ad) | [1dc784ace18ac6551b7082c429c8c1d3aeac90c9](https://github.com/abelcallejo/itsd85-2025/commit/1dc784ace18ac6551b7082c429c8c1d3aeac90c9) | 
+| INSO            | Submitted  | 2025-11-11     | [ec53b7d6b8edc0d2f7ed10df84e59d3778b138ad](https://github.com/abelcallejo/itsd85-2025/commit/ec53b7d6b8edc0d2f7ed10df84e59d3778b138ad) | [1dc784ace18ac6551b7082c429c8c1d3aeac90c9](https://github.com/abelcallejo/itsd85-2025/commit/9bf472be0e568a6abc660a7a9dfd5a4bc9568d2a) | 
 | JUMAO-AS        | Submitted  | 2025-11-11     | | |
 | LABRADOR        | Submitted  | 2025-11-11     | [d59153067474a244a730aaaa4d1d8df8f7a06eb5](https://github.com/abelcallejo/itsd85-2025/commit/d59153067474a244a730aaaa4d1d8df8f7a06eb5)| [ee2434b5b91d2b5b1f91c70f000a299fc17b57b4](https://github.com/abelcallejo/itsd85-2025/commit/ee2434b5b91d2b5b1f91c70f000a299fc17b57b4)|
 | LACTAOTAO       | Submitted  | 2025-11-18     | | |
