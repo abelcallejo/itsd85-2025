@@ -5,8 +5,7 @@ Role: Backend Software Developer
 
 ## **Summary**
 
-A short description of who you are and what you do. Example: "Full-stack developer focused on building accessible web applications."
-
+Specializing in Backend Software Developing, RDBMS Management, and API Calling Management.
 ## **Skills**
 
 JavaScript
@@ -28,6 +27,8 @@ Java
 Python
 
 Linux Arch Environment
+
+
 
 ## **Projects**
 Iron Lifters MIS — Gym management system in Valencia City
