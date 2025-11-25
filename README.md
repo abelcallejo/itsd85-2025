@@ -11,14 +11,14 @@ Make sure to not edit other else's record by following the recommended git proce
 
 ## Laboratory exercise
 
-| Name | Status | Date submitted |
-|------|--------|----------------|
+| Name | Status | Date submitted | Commit #1 | Commit #2 |
+|------|--------|----------------|-----------|-----------|
 | Callejo example | Submitted | 2025-11-11 |
 | ALAJID | Pending... | |
 | ALIWATE | Pending... | |
 | ALLEN | Pending... | |
 | AMOY | Pending... | |
-| APOLINARES | Submitted | 2025-11-11 |
+| APOLINARES | Submitted | 2025-11-11 | [9eb3ced](https://github.com/abelcallejo/itsd85-2025/commit/9eb3ced) | [fbfaad1](https://github.com/abelcallejo/itsd85-2025/commit/fbfaad1) |
 | AYUBAN | Pending... | |
 | BANCAT | Pending... | |
 | BERONIO | Submitted | 2025-11-11 |
