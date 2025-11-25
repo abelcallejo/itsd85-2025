@@ -18,7 +18,7 @@ Make sure to not edit other else's record by following the recommended git proce
 | ALIWATE | Pending... | |
 | ALLEN | Pending... | |
 | AMOY | Pending... | |
-| APOLINARES | Submitted | |
+| APOLINARES | Submitted | 2025-11-11 |
 | AYUBAN | Pending... | |
 | BANCAT | Pending... | |
 | BERONIO | Submitted | 2025-11-11 |
