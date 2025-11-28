@@ -42,7 +42,7 @@ Make sure to not edit other else's record by following the recommended git proce
 | LIBARDOS        | Pending... |                | [d0172c7dbb909e82cb26b57d0e5d8b50d55201b7](https://github.com/abelcallejo/itsd85-2025/commit/d0172c7dbb909e82cb26b57d0e5d8b50d55201b7) | [4111673d2d0b530a605090d6cb6cf0b7255c76f2](https://github.com/abelcallejo/itsd85-2025/commit/4111673d2d0b530a605090d6cb6cf0b7255c76f2) |
 | LIMBAGA         | Submitted | 2025-18-11      | [13395d739a4e144481e57473682da704f5fc86de](https://github.com/abelcallejo/itsd85-2025/commit/13395d739a4e144481e57473682da704f5fc86de) | [6009609532e374909dd43e86442853c14f9d3d60](https://github.com/abelcallejo/itsd85-2025/commit/6009609532e374909dd43e86442853c14f9d3d60) |
 | PAPASIN         | Submitted  | 2025-11-11     | [3f64d9d8fb84146832c52ff09e12901007879baa](https://github.com/abelcallejo/itsd85-2025/commit/3f64d9d8fb84146832c52ff09e12901007879baa)| [708b7b8f3fb9d8dd39dad4b5c5c122b7f4feddd6](https://github.com/abelcallejo/itsd85-2025/commit/708b7b8f3fb9d8dd39dad4b5c5c122b7f4feddd6)|
-| PROSIA          | Pending... |                | | |
+| PROSIA          | Submitted  | 2025-28-11     | | |
 | REDONDO         | Submitted  | 2025-11-11     | | |
 | RUBI            | Submitted  | 2025-11-11     | [6f292166d1d79e0c8ef92401e3e5a445d4b8e17b](https://github.com/abelcallejo/itsd85-2025/commit/6f292166d1d79e0c8ef92401e3e5a445d4b8e17b)| |
 | RUBI            | Submitted  | 2025-11-11     | [6f292166d1d79e0c8ef92401e3e5a445d4b8e17b](https://github.com/abelcallejo/itsd85-2025/commit/6f292166d1d79e0c8ef92401e3e5a445d4b8e17b)| [a5951240083bb711300e8148e06fd5ff83f4b0da](https://github.com/abelcallejo/itsd85-2025/commit/a5951240083bb711300e8148e06fd5ff83f4b0da) |
